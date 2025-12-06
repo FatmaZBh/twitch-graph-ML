@@ -1,4 +1,3 @@
-# twitch-graph-ML
 Prerequisites : Docker installed on your computer
 
 Setup instructions : 
@@ -21,4 +20,3 @@ docker run \
 2- Wait for neo4j to fully start (this step can take some time  1 to 2 minutes 
 
 3- Once neo4j is started, you can run the notebook cells. 
-
